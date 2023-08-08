@@ -1,0 +1,280 @@
+﻿body {
+     background-color: rgba(35, 40, 48, 1);
+    
+}
+.heading1 {
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 45px;
+    letter-spacing: 0em;
+    text-align: left;
+    float:left;
+    color: rgba(255, 255, 255, 1);
+
+}
+.heading2 {
+
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: left;
+    float:right;
+    padding-right:40px;
+    color: rgba(255, 255, 255, 1);
+}
+.heading3 {
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: left;
+    float: right;
+    padding-right: 40px;
+    color: rgba(255, 255, 255, 1);
+}
+.heading4 {
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: left;
+    float: right;
+    padding-right: 5px;
+    color: rgba(255, 255, 255, 1);
+}
+.heading5 {
+    width: 194.4451446533203px;
+    height: 204.08372497558594px;
+    top: -246px;
+    left: 216px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    
+}
+.heading6 {
+    font-family: Recursive;
+    font-size: 71px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 85px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: rgba(255, 117, 117, 1);
+}
+.heading7 {
+    font-family: Poppins;
+    font-size: 29px;
+
+    font-weight: 400;
+    line-height: 44px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+}
+.heading8 {
+    font-family: Recursive;
+    font-size: 27px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(144, 144, 144, 1);
+    float: left;
+    padding-right: 25px;
+    padding-left: 25px;
+}
+.heading9 {
+    font-family: Recursive;
+    font-size: 27px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(144, 144, 144, 1);
+    float: left;
+    padding-right: 25px;
+}
+.heading10 {
+    font-family: Recursive;
+    font-size: 27px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(144, 144, 144, 1);
+    float: left;
+    padding-right: 25px;
+}
+.heading11 {
+    font-family: Recursive;
+    font-size: 27px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(144, 144, 144, 1);
+    float: left;
+    padding-right: 25px;
+}
+.heading12 {
+    font-family: Recursive;
+    font-size: 27px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(144, 144, 144, 1);
+    float: left;
+    padding-right: 25px;
+}
+.heading13 {
+    font-family: Recursive;
+    font-size: 27px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(144, 144, 144, 1);
+    float: left;
+    padding-right: 25px;
+}
+.heading14 {
+    font-family: Recursive;
+    font-size: 27px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(144, 144, 144, 1);
+    float: left;
+  
+}
+.card-title {
+    font-family: Poppins;
+    font-size: 19px;
+    font-weight: 600;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.card-text {
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    padding:5px;
+}
+.card-date {
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: start;
+
+    padding-top :40px;
+}
+.card-img-top{
+  
+height: 160px;
+top: 429px;
+left: -282.5398254394531px;
+border-radius: 22px;
+padding:10px;
+
+}
+.card{
+margin-right:20px;
+margin-top:40px;
+width: 340px;
+height: 439px;
+border-radius: 22px;
+border: 1px;
+
+}
+
+.new {
+   
+    border-top: 6px solid;
+    opacity: 20%;
+    color: rgba(77, 77, 77, 1);
+}
+.pname {
+    font-family: Source Sans Pro;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 38px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+    float:left;
+    padding-right:10px;
+}
+.rectangle {
+
+    padding:2px;
+    font-family: Source Sans Pro;
+    font-size: 19px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+}
+.fa fa-twitter {
+    padding: 2px;
+    font-family: Source Sans Pro;
+    font-size: 19px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+}
+.newClass {
+    margin-right: 20px;
+    margin-left:240px;
+    padding-left: 20px;
+    margin-top: 40px;
+    width: 700px;
+    height: 200px;
+    border-radius: 22px;
+    border: 1px;
+   
+}
+.newClass > img {
+    display: none;
+}
+
+.pagination {
+    font-family: Recursive;
+    font-size: 27px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: rgba(144, 144, 144, 1);
+
+  
+}
+li{
+    margin-right:20px;
+   
+}
